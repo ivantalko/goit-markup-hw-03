@@ -36,8 +36,9 @@ visibility: hidden;
  
 /* header */
 .head{
+    padding-top:32px;
+    padding-bottom:32px;
     margin: auto;
-    padding: 0;
     border-bottom: 1px solid var(--border-color);
     width: 1600px;
 }
