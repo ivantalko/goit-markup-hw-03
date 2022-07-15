@@ -329,7 +329,7 @@ color: rgba(255, 255, 255, 0.6);}
 margin-top: 94px; 
 display: flex;
 justify-content: center;
-padding: 0;
+
 }
 .but .item{
  margin-right: 8px;
@@ -350,7 +350,8 @@ cursor: pointer
 }
 
 .but .list:hover{
- color: #FFFFFF;   
+ color: #FFFFFF; 
+ border-radius: 4px solid #2196F3;  
 }
 .but .list:focus{
 background-color: #2196F3;    
